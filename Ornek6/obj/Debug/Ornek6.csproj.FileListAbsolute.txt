@@ -1,0 +1,7 @@
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\bin\Debug\Ornek6.exe.config
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\bin\Debug\Ornek6.exe
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\bin\Debug\Ornek6.pdb
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\obj\Debug\Ornek6.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\obj\Debug\Ornek6.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\obj\Debug\Ornek6.exe
+C:\EGITMEN YEDEK\COBAN\20250215_OS\Ornek6\Ornek6\obj\Debug\Ornek6.pdb

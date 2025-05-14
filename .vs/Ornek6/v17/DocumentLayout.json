@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugur\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250215_OS\\Ornek6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D480EE-4CA9-4F33-9C3D-AF0466246374}|Ornek6\\Ornek6.csproj|c:\\users\\ugur\\desktop\\yaz\u0131l\u0131m pratik notlar\u0131\\20250215_os\\ornek6\\ornek6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D480EE-4CA9-4F33-9C3D-AF0466246374}|Ornek6\\Ornek6.csproj|solutionrelative:ornek6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ugur\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250215_OS\\Ornek6\\Ornek6\\Program.cs",
+              "RelativeDocumentMoniker": "Ornek6\\Program.cs",
+              "ToolTip": "C:\\Users\\ugur\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250215_OS\\Ornek6\\Ornek6\\Program.cs",
+              "RelativeToolTip": "Ornek6\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:48:23.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
